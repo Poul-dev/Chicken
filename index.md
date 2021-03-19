@@ -8,4 +8,4 @@ Le launcher est enfin disponnible ici : https://discord.gg/XzR6AK5sYC/
 
 ### 1.0.1
 
-Serveur Minecraft ouvert !!!
+Serveur Minecraft ouvert dedié au Launcher et à la construction
