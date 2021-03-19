@@ -1,6 +1,6 @@
 # Chicken Launcher
 
-Vous êtes là pour vous amusez !!! 
+### Vous êtes là pour vous amusez !!! 
 
 ## Chicken News
 
@@ -11,4 +11,4 @@ Vous êtes là pour vous amusez !!!
 
 ### 1.0.1
 
-Serveur Minecraft ouvert dedié au Launcher et à la construction
+### Serveur Minecraft ouvert dedié au Launcher et à la construction
