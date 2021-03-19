@@ -1,4 +1,4 @@
-## Chiken News 1.0.0 :
+## Chiken News 1.0.0
 
 Le launcher est enfin disponnible ici :
 Vous êtes ici pour :
