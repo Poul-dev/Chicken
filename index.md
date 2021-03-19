@@ -1,6 +1,6 @@
 # Chicken Launcher
 
-## Chiken News 1.0.0
+## Chiken News
 
 Le launcher est enfin disponnible ici : https://discord.gg/XzR6AK5sYC/
 
