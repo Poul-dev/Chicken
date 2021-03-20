@@ -1,4 +1,4 @@
-# Chicken Launcher
+# Chicken Launcher Java 1.12.2
 
 #### Vous êtes là pour vous amusez !!! 
 
