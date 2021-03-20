@@ -1,6 +1,6 @@
-# Chicken Launcher Java 1.12.2
+# Chicken Launcher
 
-#### Vous êtes là pour vous amusez !!! 
+#### Vous êtes là pour vous amusez !!!
 
 ## Chicken News
 
@@ -15,3 +15,11 @@
 ### 1.0.1
 
 #### Serveur Minecraft ouvert dedié au Launcher et à la construction
+
+## Infos jeu
+
+#### Minecraft Java version 1.12.2
+#### Forge 14.23.0.2491
+#### Mojang Studio
+
+##### © Bobby Inc.
