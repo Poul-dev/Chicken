@@ -6,7 +6,7 @@
 
 #### Le launcher est enfin disponnible ici : https://discord.gg/XzR6AK5sYC/
 ----------------------------------------------------------------------------------------
-#### Télécharger la dernière version du Launcher (1.0.0) : https://mega.nz/folder/3Q0yXb5Z#447TNkDh7krWFvAvmY5-wg
+#### La mise à jour du launcher se fait par internet
 ----------------------------------------------------------------------------------------
 #### Télécharger la dernière version (Java) : https://java.com
 ----------------------------------------------------------------------------------------
