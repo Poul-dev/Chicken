@@ -12,7 +12,7 @@
 ----------------------------------------------------------------------------------------
 ## Future mise à jour :
 
-#### Patch du bug de Forge
+#### CHICKEN-FIRE UPDATE : Je suis désolé mais cette mise à jour demandera le retéléchargement
 ----------------------------------------------------------------------------------------
 ## Infos jeu
 
