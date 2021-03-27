@@ -12,7 +12,7 @@
 ----------------------------------------------------------------------------------------
 ## Future mise à jour :
 
-#### CHICKEN-FIRE UPDATE : Je suis désolé mais cette mise à jour demandera le retéléchargement
+#### CHICKEN-FIRE UPDATE : Je suis désolé mais cette mise à jour demandera le retéléchargement et la première version ne sera plus mise à jour
 ----------------------------------------------------------------------------------------
 ## Infos jeu
 
