@@ -4,9 +4,7 @@
 
 ## Chicken News
 
-#### Le launcher est enfin disponnible ici : https://discord.gg/XzR6AK5sYC/
-----------------------------------------------------------------------------------------
-#### La mise à jour du launcher se fait par internet
+#### Le launcher est enfin disponnible ici : https://discord.gg/XzR6AK5sYC
 ----------------------------------------------------------------------------------------
 #### Télécharger la dernière version (Java) : https://java.com
 ----------------------------------------------------------------------------------------
